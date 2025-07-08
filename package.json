@@ -1,11 +1,11 @@
 {
-  "name": "playwright-demo",
-  "version": "1.0.0",
-  "description": "Projet Playwright de test d'un formulaire",
+  "name": "playwright-demo", // Nom du projet
+  "version": "1.0.0", // Version 
+  "description": "Projet Playwright de test d'un formulaire", // Brève description de ce que fait le projet
   "scripts": {
-    "test": "npx playwright test"
+    "test": "npx playwright test" // // Script pour exécuter les tests Playwright
   },
   "devDependencies": {
-    "@playwright/test": "^1.43.0"
+    "@playwright/test": "^1.43.0" // Dépendances utilisées uniquement en développement (pas en production) avec la version 
   }
 }
