@@ -1,0 +1,11 @@
+{
+  "name": "playwright-demo",
+  "version": "1.0.0",
+  "description": "Projet Playwright de test d'un formulaire",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.43.0"
+  }
+}
